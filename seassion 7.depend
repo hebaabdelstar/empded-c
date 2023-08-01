@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689415741 source:d:\seassion 7\student.c
+	"student.h"
+
+1689415739 d:\seassion 7\student.h
+
+1689413135 source:d:\seassion 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+
